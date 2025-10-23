@@ -1,0 +1,18 @@
+title: My Awesome Blog
+description: A blog about interesting things
+email: keshavg10001@example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gold.github.io" # the base hostname & protocol for your site
+twitter_username: #your_twitter_handle
+github_username:  keshavg1001
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
